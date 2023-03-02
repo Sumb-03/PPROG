@@ -1,22 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="CompilerConfiguration">
-    <excludeFromCompile>
-      <directory url="file://$PROJECT_DIR$/Semana 2 PL/Exercicio Data/src/main/resources/archetype-resources" includeSubdirectories="true" />
-    </excludeFromCompile>
     <annotationProcessing>
       <profile name="Maven default annotation processors profile" enabled="true">
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="ExercicioData" />
-        <module name="Semana2ExTP" />
-        <module name="ExercicioCumprimentar" />
       </profile>
     </annotationProcessing>
-    <bytecodeTargetLevel>
-      <module name="archetype-resources" target="1.5" />
-      <module name="Semana2PL" target="19" />
-    </bytecodeTargetLevel>
   </component>
 </project>
