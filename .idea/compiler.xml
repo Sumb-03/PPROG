@@ -9,9 +9,10 @@
         <sourceOutputDir name="target/generated-sources/annotations" />
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
-        <module name="ExercicioData" />
+        <module name="Semana3ExTP" />
         <module name="Semana2ExTP" />
         <module name="ExercicioCumprimentar" />
+        <module name="ExercicioData" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
